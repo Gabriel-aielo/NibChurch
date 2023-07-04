@@ -1,0 +1,15 @@
+body{
+    margin: 0 auto;
+    height: 100vh;
+}
+
+.itensNavbar li{
+    padding: 0px 10px;
+    text-decoration: none;
+    color: #000000;
+}
+
+.itensNavbar li:hover{
+    text-decoration: none;
+}
+

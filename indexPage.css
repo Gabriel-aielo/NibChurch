@@ -1,0 +1,72 @@
+body{
+    margin: 0 auto;
+    height: 100vh;
+}
+
+.itensNavbar li{
+    padding: 0px 10px;
+}
+
+.itensNavbar li a{
+    color: #000000;
+    text-decoration: none;
+    font-weight: 500;
+    transition: 0.2s;
+}
+
+.itensNavbar li a:hover{
+    color: #60bb98;
+    text-decoration: none;
+    border-bottom: 2px solid #60bb98;
+    padding-bottom: 3px;
+}
+.bgCustom1{
+    background-color: #60bb98;
+}
+
+.bgCustom1 h2{
+    font-family: 'Noto Serif', serif;
+    color: aliceblue;
+
+    font-size: 2.0em;
+    font-weight: 500;
+}
+
+.text1{
+    font-family: 'Noto Serif', serif;
+    color: rgb(19, 19, 19);
+
+    font-size: 1.05em;
+    
+}
+
+.titleUl{
+    font-family: 'Noto Serif', serif;
+    font-size:1.5em;
+    font-weight:lighter ;
+}
+
+.margin{
+    height: 20vh;
+}
+
+.titleJA p{
+    text-align:justify;
+}
+
+.separation{
+    height: 15vh;
+}
+
+footer{
+    background: #e4e5e4;
+}
+.fab{
+    font-size: 2em;
+}
+.bgCustomFooter{
+    background: #d0d1d0;
+    color: #a3a3a3;
+
+}
+
