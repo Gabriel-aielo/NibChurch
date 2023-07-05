@@ -40,6 +40,7 @@ body{
 .text1{
     font-family: 'Noto Serif', serif;
     color: rgb(19, 19, 19);
+    text-align: justify;
 
     font-size: 1.05em;
     
@@ -75,7 +76,7 @@ footer{
 }
 .bgCustomFooter{
     background: #d0d1d0;
-    color: #a3a3a3;
+    color: #919090;
 
 }
 
@@ -107,5 +108,11 @@ footer{
 }
 .imgbloco1:hover, .imgbloco2:hover{
     scale:1.05;
+}
+.fa-facebook{
+    color: #253bff;
+}
+.fa-instagram{
+    color: #ff2f85;
 }
 
