@@ -1,3 +1,8 @@
+html {
+    scroll-behavior: smooth;
+  }
+  
+
 body{
     margin: 0 auto;
     height: 100vh;
@@ -53,6 +58,10 @@ body{
 .titleJA p{
     text-align:justify;
 }
+.titleDE p{
+    text-align:justify;
+
+}
 
 .separation{
     height: 15vh;
@@ -68,5 +77,28 @@ footer{
     background: #d0d1d0;
     color: #a3a3a3;
 
+}
+
+.btncustom{
+    background: #60bb98;
+    padding: 10px 20px;
+    transition: 0.3s;
+    color: #e4e5e4;
+    border: #60bb98 1px solid;
+}
+
+.btncustom:hover{
+    letter-spacing: 3px;
+    text-decoration: none;
+    color: #60bb98;
+    background: #fff;
+    border: #60bb98 1px solid;
+}
+.textCustom{
+    font-family: 'Noto Serif', serif;
+    color: aliceblue;
+
+    font-size: 2.0em;
+    font-weight: 500;
 }
 
