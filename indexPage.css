@@ -102,3 +102,10 @@ footer{
     font-weight: 500;
 }
 
+.imgbloco1, .imgbloco2{
+    transition: 0.3s;
+}
+.imgbloco1:hover, .imgbloco2:hover{
+    scale:1.05;
+}
+
